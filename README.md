@@ -4,7 +4,7 @@
 
 💻 As a full stack developer, I've had the opportunity to work on several exciting projects in the blockchain and decentralized applications (dApps) domain, while also developing websites and applications for driving schools and small businesses.
 
-⚡Here's an overview of my contributions, Wheb i was a validator on several public or private testnet projects :
+⚡Here's an overview of my contributions, when i was a validator on several public or private testnet projects :
 
 - I've contributed to enhancing network monitoring scripts to ensure reliability and improved performance during the deployment of test networks for various blockchains.
 
