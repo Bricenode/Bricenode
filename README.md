@@ -24,4 +24,4 @@
 
 👀 I'm interested in working on more Node.js projects. with collaborators
   
-📫 You can reach me on Discord at "El-brizy#5482833"
+📫 You can reach me on Discord at ".elbrizy"
